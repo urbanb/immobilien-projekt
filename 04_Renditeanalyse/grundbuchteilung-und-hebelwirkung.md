@@ -1,44 +1,82 @@
 # Grundbuchrechtliche Teilung & Hebelwirkung
 
-## Quelle
-Video vom 2026-05-19 (Immobilie)
+## ⚠️ WICHTIG: Korrigiert nach Recherche
 
-## Strategie: Grundbuchaufteilung
+**Status:** Video-Strategie verifiziert – teilweise irreführend
 
-### Kernidee
-Statt **ein Mehrfamilienhaus** im Grundbuch → **11 einzelne Wohnungen** (bei 11 Wohnungen im Haus)
+Siehe auch: `grundbuchteilung-verifizierung.md` für detaillierte Recherche-Ergebnisse
 
-### Warum?
-- Wohnungen werden von Banken **anders bewertet** als ein ganzes Haus
-- 11 abbezahlte Wohnungen = höhere Sicherheit/Bewertung als 1 abbezahltes Mehrfamilienhaus
-- Obwohl es physikalisch dasselbe Objekt ist!
+---
 
-## Bewertungsvorteil bei der Bank
+## Ursprüngliche Video-Behauptung
+Statt **ein Mehrfamilienhaus** im Grundbuch → **13 einzelne Wohnungen**
 
-### EK-Equivalent
-- Nach Grundbuchteilung: Bank bewertet die Wohnungen
-- Beispiel: Bewertung zu 2 Millionen €
-- Diese 2 Mio. zählen als **Eigenkapital-Equivalent**
-- = So wertvoll wie 2 Mio. € Cash auf dem Konto
+### Video-Argumentation:
+- Wohnungen werden von Banken **höher bewertet** als ein ganzes Haus
+- 13 Wohnungen = höhere Sicherheit/Bewertung als 1 Haus
+- Ergebnis: Mehr EK-Equivalent für nächsten Kauf
 
-### Hebelwirkung
+---
 
-| Hebel | Beispiel |
-|-------|----------|
-| 10x | 10.000 € → 100.000 € Objekt |
-| 3-5x | 2 Mio. € → 6-10 Mio. € Objekt |
+## Recherche-Ergebnis: Realität
 
-**Rechnung:**
-- 2 Mio. € EK-Equivalent × Hebel 3-5 = 6-10 Mio. € Kaufkraft
-- Damit kann man deutlich größere Immobilien erwerben
+### Was Banken wirklich sagen (IMMO.info, Dr. Klein):
 
-## Ablauf
-1. Mehrfamilienhaus kaufen
-2. Grundbuchrechtliche Teilung in Einzelwohnungen
-3. Bankbewertung als Wohnungen (höherer Wert)
-4. EK-Equivalent nutzen für nächsten Kauf
-5. Hochskalieren
+> *"Banken bewerten Eigentumswohnungen **anders** als ein Mehrfamilienhaus. Die Aufteilung kann eine Neubewertung des Beleihungswertes zur Folge haben, was zu einer **Unterdeckung der Grundschuld** führen kann."*
 
-## Zugehörige Themen
-- Siehe auch: `01_Bank/` (Bewertung von Sicherheiten)
-- Siehe auch: `02_Finanzierung/hebelstrategie.md`
+### Risiken der Grundbuchteilung:
+
+| Risiko | Beschreibung |
+|--------|--------------|
+| **Unterdeckung** | Bank fordert höheren Eigenkapitalanteil |
+| **Konditionsänderung** | Zinsen können sich verschlechtern |
+| **Zustimmungspflicht** | Bank muss der Teilung zustimmen |
+| **3-Objekt-Grenze** | Bei gewerblicher Tätigkeit andere Steuerregeln |
+
+---
+
+## Bewertungsmethoden (unterschiedlich!)
+
+| Objekttyp | Bewertungsverfahren |
+|-----------|---------------------|
+| **Wohnungseigentum** | Vergleichswertverfahren |
+| **Mehrfamilienhaus** | Ertragswertverfahren |
+
+**Wichtig:** Die Verfahren sind unterschiedlich, aber das bedeutet nicht automatisch "höher".
+
+---
+
+## Korrigierte Strategie
+
+### Wann kann es trotzdem sinnvoll sein?
+
+✅ **Für Verkauf:** Einzelne Wohnungen erzielen oft höhere Gesamterlöse  
+✅ **Für Erbfolge:** Gerechte Aufteilung unter mehreren Erben  
+✅ **Für Teilverkäufe:** Einzelne Einheiten verkaufen, Rest behalten
+
+### Was VOR der Teilung geklärt werden MUSS:
+
+1. **Bankgespräch** – Zustimmung einholen
+2. **Neubewertung** – Wie bewertet die Bank nach Teilung?
+3. **Unterdeckung** – Werden höhere EK-Anteile nötig?
+4. **Konditionen** – Ändern sich Zinsen/Tilgung?
+
+---
+
+## Fazit
+
+> ⚠️ **Die Video-Strategie "11 Wohnungen = mehr EK-Equivalent" ist vereinfacht und kann ins Gegenteil umschlagen.**
+
+Die Grundbuchteilung ist kein automatischer "Hebel-Hack". Sie erfordert:
+- Abstimmung mit der Bank
+- Risikoprüfung (Unterdeckung möglich)
+- Kosten-Nutzen-Rechnung (Notar, Grundbuch, Planung)
+
+### Weiterführende Dateien:
+- `grundbuchteilung-verifizierung.md` – Detaillierte Recherche
+- `01_Bank/` – Bankgespräche & Finanzierungen
+- `06_Steuern/` – 3-Objekt-Grenze & Steuerfolgen
+
+---
+
+*Aktualisiert: 2026-05-19 nach Verifizierung*
